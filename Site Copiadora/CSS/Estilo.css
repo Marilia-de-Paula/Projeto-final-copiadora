@@ -1,0 +1,15 @@
+logo{
+    height: 50px;
+    width: 70px;
+    background-color: cornflowerblue;
+}
+.menu{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    position: fixed;
+    font-size: 50px;
+}
