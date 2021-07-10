@@ -1,15 +1,65 @@
-logo{
-    height: 50px;
-    width: 70px;
-    background-color: cornflowerblue;
+.logo{
+    height: 150px;
+    width: 100%;
+    margin: auto;
+}
+.logo1{
+    height:100px;
+    width:350px;
+    margin: auto;
 }
 .menu{
-    height: 50px;
+    height: 70px;
     width: 100%;
-    background-color: black;
+    background-color: rgb(202, 198, 198);
     display: flex;
     justify-content: space-between;
     text-decoration: none;
-    position: fixed;
-    font-size: 50px;
+    font-size: 30px;
+    color: white;   
+    margin: auto;
+}
+.menu1{
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+    text-align: center;
+  
+}
+.slide{
+    height: 50%;
+    width: 70%;
+    margin: auto;
+}
+.col1{
+    height: 50vh;
+    width: 30%;
+    background-image: url(../IMG/cores\ circulos.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.col2{
+    height: 50vh;
+    width: 30%;
+    background-image: url(../IMG/papel\ impresso.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.col3{
+    height: 50vh;
+    width: 30%;
+    background-image: url(../IMG/impressora\ luz.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.col4{
+    height: 50vh;
+    width: 30%;
+    background-image: url(../IMG/paleta\ cores.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
 }
