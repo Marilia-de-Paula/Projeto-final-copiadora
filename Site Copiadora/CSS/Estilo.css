@@ -31,35 +31,14 @@
     width: 70%;
     margin: auto;
 }
-.col1{
-    height: 50vh;
-    width: 30%;
-    background-image: url(../IMG/cores\ circulos.jpg);
-    background-position: center;
-    background-size: cover;
-    text-align: center;
+.rodape1{
+    background-color: rgb(202, 198, 198);
+
 }
-.col2{
-    height: 50vh;
-    width: 30%;
-    background-image: url(../IMG/papel\ impresso.jpg);
-    background-position: center;
-    background-size: cover;
-    text-align: center;
-}
-.col3{
-    height: 50vh;
-    width: 30%;
-    background-image: url(../IMG/impressora\ luz.jpg);
-    background-position: center;
-    background-size: cover;
-    text-align: center;
-}
-.col4{
-    height: 50vh;
-    width: 30%;
-    background-image: url(../IMG/paleta\ cores.jpg);
-    background-position: center;
-    background-size: cover;
-    text-align: center;
+.rodape2{
+    background-color: rgb(26, 24, 24);
+    color: white;
+    margin: auto;
+    justify-content: space-between;
+    text-align: right;
 }
